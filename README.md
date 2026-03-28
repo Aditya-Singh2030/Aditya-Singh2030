@@ -16,7 +16,7 @@ A passionate **Full Stack Web Developer 🎯** and **AI/ML Engineer 🎨** from 
 ## 📫 How to Reach Me
   
 - 💼 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/aditya-singh-074b29221/)  
-- 🌐 Website: [mohitdecodes.com](https://tinyurl.com/f73a8aaj)  
+- 🌐 Website: [aditya-singh.com](https://tinyurl.com/f73a8aaj)  
 - 📧 Email: aditya2003sep@gmail.com  
 
 ---
